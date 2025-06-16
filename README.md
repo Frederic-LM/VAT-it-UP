@@ -122,7 +122,7 @@ You can compile the Python script into a single standalone `.exe` file using `Py
 
 ```
 .
-├── vat_it_up.py   # The main application source code
+├── vat_it_up.py            # The main application source code
 ├── requirements.txt        # Project dependencies (for developers)
 ├── screenshot.png          # A screenshot of the application
 └── README.md               # This file
