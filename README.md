@@ -54,7 +54,7 @@ You can either run the pre-built application directly or run it from the source 
 
 The easiest way to use the application is to download the pre-compiled executable.
 
-1.  Go to the [**Releases**](https://github.com/Frederic-LM/VAT-ip-UP/releases) page of this repository.
+1.  Go to the [**Releases**](https://github.com/Frederic-LM/VAT-it-UP/releases) page of this repository.
 2.  Download the `VAT-Dashboard.exe` file from the latest release.
 3.  Save the file to your computer and double-click it to run. No installation is needed!
 
