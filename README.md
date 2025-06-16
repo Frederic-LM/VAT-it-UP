@@ -18,16 +18,21 @@ VAT it Up is a  simple but powerful desktop utility for calculating VAT and summ
 
 ---
 
+
 ## About The Project
 
 This application was designed to solve a common problem for freelancers and small businesses: quickly calculating the pre-tax (HT) price and VAT amount from a final price (TTC), and keeping a running total of multiple items with different VAT rates.
 
 It provides a clean, three-column dashboard interface:
-- **Item Calculators:** Two dedicated sections for items with 20% and 5.5% VAT rates.
+- **Item Calculators:** Two dedicated sections for items with two different VAT rates 20% and 5.5% (dafault values, but can be changed in the options tab or hardcoded to suit your needs).
 - **Grand Totals:** A clear, automatically updated summary of the total TTC, HT, and VAT for all added items.
 - **Activity Log:** A timestamped log that records every item added to the total, providing a clear audit trail.
 
 ---
+## Screenshot
+
+![vat_it_up](https://github.com/user-attachments/assets/d47b71f6-e66b-4671-b792-c5d50a141dbf)
+
 
 ## Features
 
