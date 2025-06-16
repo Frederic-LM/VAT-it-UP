@@ -1,6 +1,6 @@
 # VAT Invoicing Dashboard
 
-A simple but powerful desktop utility for calculating VAT and summing up multiple items for invoicing or quoting. Built with Python and `tkinter`.
+VAT it Up is a  simple but powerful desktop utility for calculating VAT and summing up multiple items for invoicing or quoting. Built with Python and `tkinter`.
 
 
 ---
