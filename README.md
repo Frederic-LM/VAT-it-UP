@@ -53,6 +53,8 @@
 2. 📦 Download `VAT-Dashboard.exe` from the latest release
 3. ▶️ Double-click to run - **no installation needed!**
 
+> 🚀 **Quick Download:** [VAT Dashboard V1 (Ready to use!)](https://github.com/Frederic-LM/VAT-it-UP/releases/download/V1/VAT.Dashboard.exe)
+
 ### 👨‍💻 For Developers
 
 **Want to customize or contribute?**
