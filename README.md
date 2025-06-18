@@ -157,6 +157,6 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 **⭐ If this project helped you, consider giving it a star!**
 
-**🎵 [Day after day I will walk and I will ...](https://www.youtube.com/watch?v=JZwPcPy04AQ)) ** 🎸
+** [Day after day I will walk and I will ...  ](https://www.youtube.com/watch?v=JZwPcPy04AQ) ** 🎸
 
 </div>
