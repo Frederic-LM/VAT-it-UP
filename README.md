@@ -150,23 +150,6 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 - Powered by **Python**, **tkinter**, and **PyInstaller**
 - Special thanks to the open-source community for making powerful tools accessible
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- 🐛 Report bugs
-- 💡 Suggest new features  
-- 🔧 Submit pull requests
-- 📖 Improve documentation
-
----
-
-## 📞 Support
-
-Having issues? Check out:
-- 📋 [Issues Page](https://github.com/Frederic-LM/VAT-it-UP/issues) for known problems
-- 📝 [Discussions](https://github.com/Frederic-LM/VAT-it-UP/discussions) for questions and ideas
 
 ---
 
@@ -174,6 +157,6 @@ Having issues? Check out:
 
 **⭐ If this project helped you, consider giving it a star!**
 
-*Made with ❤️ for freelancers and small businesses*
+**🎵 [Day after day I will walk and I will ...](https://www.youtube.com/watch?v=L3EaLfpZjaw) * 🎸
 
 </div>
